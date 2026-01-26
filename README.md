@@ -6,4 +6,4 @@ N'ayant que peu de temps pour travailler dessus, j'ai réalisé ce projet en 1 s
 
 ## Comment essayer le jeu?
 
-Lien du launcher pour jouer au jeu : [Lien] (https://www.seccia.dev)
+Lien du launcher pour jouer au jeu : [Lien](https://www.seccia.dev)

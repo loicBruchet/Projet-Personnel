@@ -6,9 +6,9 @@ N'ayant que peu de temps pour travailler dessus, j'ai réalisé ce projet en 1 s
 
 ## Comment essayer le jeu?
 
-- 1 Installer le laucnher: [Lien](https://www.seccia.dev)
+- 1 Installer le launcher: [Lien](https://www.seccia.dev)
 
-- 2 Lancer le laucher, cliquer sur "Software", puis sur l'icone "SecciaDev"
+- 2 Lancer le launcher, cliquer sur "Software", puis sur l'icone "SecciaDev"
 
 - 3 Cliquer sur "Open projet" et ouvrez le dossier "detective_gallade.seccia"
 

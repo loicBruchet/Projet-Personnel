@@ -1,0 +1,212 @@
+{
+"assets": [
+{
+"path": "asset\\object\\o_berry_maron\\icon\\0.png",
+"md5": "0998e7867dae8ae791345f0e4588b007"
+},
+{
+"path": "asset\\object\\o_berry_maron\\pack\\0000.png",
+"md5": "c7d4c5348be1df4ea051d3a4b575fd77"
+},
+{
+"path": "asset\\object\\o_berry_sitrus\\icon\\0.png",
+"md5": "c44474d4327cf228d03166c2811e63e6"
+},
+{
+"path": "asset\\object\\o_berry_sitrus\\pack\\0000.png",
+"md5": "c7d4c5348be1df4ea051d3a4b575fd77"
+},
+{
+"path": "asset\\object\\o_berry_tamato\\icon\\0.png",
+"md5": "3ff48f940c1bb1041a61dcb9438c9a0d"
+},
+{
+"path": "asset\\object\\o_berry_tamato\\pack\\0000.png",
+"md5": "c7d4c5348be1df4ea051d3a4b575fd77"
+},
+{
+"path": "asset\\object\\o_choice_band\\icon\\0.png",
+"md5": "912b4b2f631e62ac5f822c5eb787eb93"
+},
+{
+"path": "asset\\object\\o_choice_band\\pack\\0000.png",
+"md5": "c7d4c5348be1df4ea051d3a4b575fd77"
+},
+{
+"path": "asset\\object\\o_cs_cut\\icon\\0.png",
+"md5": "51c1f63fda73d22060be4c33e07d3a34"
+},
+{
+"path": "asset\\object\\o_cs_cut\\pack\\0000.png",
+"md5": "410bc2fa0b18207ab33a059e3bbc6346"
+},
+{
+"path": "asset\\object\\o_empty_letter\\icon\\0.png",
+"md5": "8a1d4d8ecbc70147a8772e8d28d10687"
+},
+{
+"path": "asset\\object\\o_empty_letter\\pack\\0000.png",
+"md5": "aa336c80432f6c6e42bfa404d0dff64a"
+},
+{
+"path": "asset\\object\\o_hero\\pack\\0000.png",
+"md5": "9eb71336d71d07dbbbe9eb29b7bf5807"
+},
+{
+"path": "asset\\object\\o_hero\\pack\\0001.png",
+"md5": "a47324b3c433c77e375273988318bf49"
+},
+{
+"path": "asset\\object\\o_leftovers\\icon\\0.png",
+"md5": "9a07cad8e5ef51bde07b825c46914783"
+},
+{
+"path": "asset\\object\\o_leftovers\\pack\\0000.png",
+"md5": "c7d4c5348be1df4ea051d3a4b575fd77"
+},
+{
+"path": "asset\\object\\o_leo_key_house\\icon\\0.png",
+"md5": "b5ca618331977c143112754cafacba92"
+},
+{
+"path": "asset\\object\\o_leo_key_house\\pack\\0000.png",
+"md5": "c7d4c5348be1df4ea051d3a4b575fd77"
+},
+{
+"path": "asset\\object\\o_letter_to_mother\\icon\\0.png",
+"md5": "b770c8c8849bdd92a3e5dc182488b57d"
+},
+{
+"path": "asset\\object\\o_letter_to_mother\\pack\\0000.png",
+"md5": "7cd4bac072155ab13b270ba26ed824b6"
+},
+{
+"path": "asset\\object\\o_letter_to_noctunoir\\icon\\0.png",
+"md5": "de887c91edf108f10eebb0c8da527533"
+},
+{
+"path": "asset\\object\\o_letter_to_noctunoir\\pack\\0000.png",
+"md5": "aa336c80432f6c6e42bfa404d0dff64a"
+},
+{
+"path": "asset\\object\\o_p_bekipan\\pack\\0000.png",
+"md5": "a06dd35f544add13e0d6c3736d569f6f"
+},
+{
+"path": "asset\\object\\o_p_guard_lavanville\\pack\\0000.png",
+"md5": "eacf490ae9eed447bbec52576e1eefcd"
+},
+{
+"path": "asset\\object\\o_p_leo\\pack\\0000.png",
+"md5": "a57aaea1e9d36ec52188ec38f54dfc58"
+},
+{
+"path": "asset\\object\\o_p_leuphorie\\pack\\0000.png",
+"md5": "509da68296fdc0af2a59c7cf7ac0e8e6"
+},
+{
+"path": "asset\\object\\o_p_massko\\pack\\0000.png",
+"md5": "350de21af8a8229c5f23ed8e8fe5134f"
+},
+{
+"path": "asset\\object\\o_p_mother\\pack\\0000.png",
+"md5": "51b2fdf4b98e6ff67de53cfed730f18a"
+},
+{
+"path": "asset\\object\\o_p_wailord\\pack\\0000.png",
+"md5": "8d5a9ae0a0e94cb468526f0f43f63e88"
+},
+{
+"path": "asset\\object\\o_p_wailord\\pack\\0001.png",
+"md5": "4fd5c6aa8b2adb9cd964f1da0d24d4c9"
+},
+{
+"path": "asset\\object\\o_potion\\icon\\0.png",
+"md5": "0c0f02fe8784f00c383fc10b435343db"
+},
+{
+"path": "asset\\object\\o_potion\\pack\\0000.png",
+"md5": "c48f797d213b7ba7223c80f8c8cdb3f7"
+},
+{
+"path": "asset\\object\\o_tree_azuria\\pack\\0000.png",
+"md5": "f5ba240246eecac08c754d44f0937421"
+},
+{
+"path": "asset\\object\\o_tree_carmin_sur_mer\\pack\\0000.png",
+"md5": "f5ba240246eecac08c754d44f0937421"
+},
+{
+"path": "asset\\object\\o_tree_jadielle\\pack\\0000.png",
+"md5": "f5ba240246eecac08c754d44f0937421"
+},
+{
+"path": "asset\\object\\o_wailord_pass\\icon\\0.png",
+"md5": "67c13614dbd86ff95813bba53ba57e90"
+},
+{
+"path": "asset\\object\\o_wailord_pass\\pack\\0000.png",
+"md5": "24901262d4cbcedf12abf588579b5515"
+},
+{
+"path": "asset\\player\\p_hero\\icon\\0.png",
+"md5": "8bd93ca99308936d1132d3cdaff7d4f8"
+},
+{
+"path": "image\\balloon.png",
+"md5": "cf8a9c6c7645978fc6ad7f29e3a3a382"
+},
+{
+"path": "image\\choice.png",
+"md5": "105bf4237360e5560ba8bcf0fd8a9d2c"
+},
+{
+"path": "image\\cover.png",
+"md5": "a79970127909d3c38b43d312212d16d2"
+},
+{
+"path": "image\\cursor.png",
+"md5": "96eb629001f09c1f8534b057167ac57b"
+},
+{
+"path": "image\\layout_autosave.png",
+"md5": "11b6a6c26f45c329ae072523cc78744c"
+},
+{
+"path": "image\\layout_bag.png",
+"md5": "434549bdaee65e15b6c525885f599647"
+},
+{
+"path": "image\\layout_menu.png",
+"md5": "3ebc19959c22cfcb8e6832b2cf46868b"
+},
+{
+"path": "image\\layout_object.png",
+"md5": "0f9f9af95a60f2fd82b8219072eb43bb"
+},
+{
+"path": "image\\layout_object_next.png",
+"md5": "215eaaf395b3846d97b7a216aa1532a0"
+},
+{
+"path": "image\\layout_object_prev.png",
+"md5": "5e903829a7200afff6c700d6a9813720"
+},
+{
+"path": "image\\layout_player.png",
+"md5": "d92e6a155ac70fa273812b8130da1283"
+},
+{
+"path": "image\\layout_shutup.png",
+"md5": "a5170c4a79291c9bea4e8c85a2b4b9b7"
+},
+{
+"path": "image\\magnify.png",
+"md5": "82cb32a5d349b0de8a808f1ab7989270"
+},
+{
+"path": "image\\menu.png",
+"md5": "c1151c4b7cf9c16beee9edf9a18738c3"
+}
+]
+}

@@ -6,4 +6,12 @@ N'ayant que peu de temps pour travailler dessus, j'ai réalisé ce projet en 1 s
 
 ## Comment essayer le jeu?
 
-Lien du launcher pour jouer au jeu : [Lien](https://www.seccia.dev)
+- 1 Installer le laucnher: [Lien](https://www.seccia.dev)
+
+- 2 Lancer le laucher, cliquer sur "Software", puis sur l'icone "SecciaDev"
+
+- 3 Cliquer sur "Open projet" et ouvrez le dossier "detective_gallade.seccia"
+
+- 4 Cliquer sur la flèche en haut de la fenêtre "Play live Game" et amusez-vous !
+
+

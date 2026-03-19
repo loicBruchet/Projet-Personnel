@@ -1,8 +1,10 @@
-# Projet-Personnel
+# Point & click
 
 Etant un grand fan de Pokémon, j'ai décidé de réaliser un jeu sur le moteur de jeu de notre intervenant que je trouvais très complet, pratique et agréable à utiliser.
 
-N'ayant que peu de temps pour travailler dessus, j'ai réalisé ce projet en 1 semaine
+## Pitch
+
+Ce fangame raconte l'histoire d'un pokémon (gallame) découvrant que tout les êtres humains ont disparu et que les pokémons ont perdu la mémoire. Vous partez donc à la recherche d'indices sur cette mysterieuse disparition.
 
 ## Comment essayer le jeu?
 
